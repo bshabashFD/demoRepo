@@ -11,3 +11,5 @@ print(my_matrix)
 print(my_second_matrix)
 print("blablabla")
 print("I'm working on the master")
+
+third_matrix = np.eye(8)
