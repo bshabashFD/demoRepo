@@ -15,4 +15,4 @@ print("I'm working on the master")
 
 third_matrix = np.eye(8)
 
-print("Adding more things into the file")
+print("Adding more stuff into the file")
