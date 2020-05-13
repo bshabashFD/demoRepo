@@ -9,5 +9,5 @@ my_second_matrix = np.array[[1,2,3,4],
 
 print(my_matrix)
 print(my_second_matrix)
-print("hello")
-print("Boris")
+print("blablabla")
+print("I'm working on the master")
